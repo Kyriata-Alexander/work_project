@@ -1,0 +1,13 @@
+{
+	"undef": true,
+	"quotmark": false,
+	"maxlen": 150,
+	"trailingcomma": false,
+	"curly": true,
+	"strict": false,
+	"browser": true,
+	"devel": true,
+	"jquery": true,
+    "esversion": 9,
+    "node": true
+}
